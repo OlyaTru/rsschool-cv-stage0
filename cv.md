@@ -38,6 +38,14 @@ I like to move forward and improve by gaining new knowledge. I believe that I ca
 2. Polotsk book publishing house, *layout designer-engineer*.
 3. Advertising agency, *advertising manager*.
 
+## Code example
+
+```
+function even_or_odd(number) {
+    return number % 2 == 0 ? "Even" : "Odd"
+}
+```
+
 ## Languages
 
 **RU** native
